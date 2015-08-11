@@ -1,7 +1,7 @@
-###Overview
+##Overview
 This repository contains documentation and information that can be used to understand what User Experience (UX) means to RDI.  In addition to providing an understanding of UX design, the repository provides resources that developers, business analysts and project managers can draw on to improve UX in project work.
 
-###Tech Lead Initiative
+##Tech Lead Initiative
 Initial creation of the UX repository resulted from the UX Tech Lead Initiative.  Tasks related to the initiative and their current status are listed below:
 
 * [x] **Establish GitHub Repo:** Collaboration tool for UX at RDI
@@ -16,4 +16,7 @@ Initial creation of the UX repository resulted from the UX Tech Lead Initiative.
 * [x] **Meeting with HR to discuss Initiative:** Meeting held 4/21.  Attendees Brian Walch, Jason Mancuso, Rick Pannell
 * [x] **Meeting with Marketing to discuss Initiative:** Meeting held 5/11.  Attendees Howard Earl, Jason Mancuso, Rachel Silverstien
 * [ ] **Update Project Overviews (General Experience) with UX Skills** 
-* 
+* [ ] **RDI Case Study:** Case study of UX used on an RDI project
+ 
+
+
