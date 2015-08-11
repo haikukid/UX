@@ -1,8 +1,8 @@
-##Overview
+#Overview
 This repository contains documentation and information that can be used to understand what User Experience (UX) means to RDI.  In addition to providing an understanding of UX design, the repository provides resources that developers, business analysts and project managers can draw on to improve UX in project work.
 
-##Tech Lead Initiative
-Initial creation of the UX repository resulted from the UX Tech Lead Initiative.  Tasks related to the initiative and their current status are listed below:
+#Tech Lead Initiative
+Initial creation of the UX repository resulted from the UX Tech Lead Initiative.  The overall goal of the UX Tech Lead initiative is to improve UX capabilities as a company.  To achieve this goal the team of Jason Mancuso, Michael Knight, Ariane Remien, Matt Johnson and Amy Walton identified a list of initial tasks which together would provide exposure of the intiative to everyone at RDI.  The initial tasks idenitified and worked on as part of the initaitive are outlined below:
 
 * [x] **Establish GitHub Repo:** Collaboration tool for UX at RDI
 * [x] **Starter Guide:** Document defining UX and what it means to RDI
@@ -18,5 +18,6 @@ Initial creation of the UX repository resulted from the UX Tech Lead Initiative.
 * [ ] **Update Project Overviews (General Experience) with UX Skills** 
 * [ ] **RDI Case Study:** Case study of UX used on an RDI project
  
+In addition to the initial tasks outlined above, for UX design to become an integral part of RDI ongoing education and updates to UX resources should occur.  Ongoing education and updates are not limited to the initial UX team, in fact, anyone who has a strong interest or background in UX is encouraged to contribute.
 
 
