@@ -1,27 +1,36 @@
 #UX at RDI: Starter Guide
-Who is this document for?
+
+####Who is this document for?
 This document is specifically written for programmers, business analysts and project managers at RDI. Perhaps you are already the UX guru in your branch. Or perhaps you don’t really understand what they mean when someone tells you your website needs “better UI”. Either way, this document aims to clarify what UX means at RDI and includes some considerations you might consider in your projects
-#UX at RDI
+
+##UX at RDI
 At RDI we take pride in our ability to develop complex IT systems by addressing the complete needs of our clients.  While not always explicitly stated in our project requirements, a key consideration for every project with a user interface is how we can best deliver professional systems that are intuitive or familiar to our users. 
-User experience (UX) is the process of enhancing user satisfaction by improving the workflows, usability, ease of use, and that sense of flow experienced by the user while interacting with the product or system. 
+
+*User experience (UX) is the process of enhancing user satisfaction by improving the workflows, usability, ease of use, and that sense of flow experienced by the user while interacting with the product or system.*
+
 Let’s put this in more practical terms. Every day at RDI, we are making many small decisions that affect the UX of our products. These include:
-•	The colors, fonts and graphics
-•	The layout and spacing
-•	The words (actual content) of the system
-•	The words we use to identify menus, heading and buttons
-•	How we structure and organize a system (menus, navigation, sections)
-•	How a user interacts with information in the system
-•	How we build forms and other functionality
+
+* The colors, fonts and graphics
+* The layout and spacing
+* The words (actual content) of the system
+* The words we use to identify menus, heading and buttons
+* How we structure and organize a system (menus, navigation, sections)
+* How a user interacts with information in the system
+* How we build forms and other functionality
+
 Paying more attention to these small decisions and how they affect the overall user experience will greatly improve the UX and overall quality of our products. 
+
 From a business perspective, improving overall UX at RDI means:
-•	Our products will be competitively differentiated in the marketplace.
-•	Our systems will achieve faster, better user acceptance.
-•	Users achieve a state of flow in our systems and user satisfaction is higher.
-•	User errors (and resulting “bugs”) are reduced.
-•	Our solutions require less training and documentation.
-•	We inspire loyalty in our clients.
-•	The business process is repeatable and scalable.
-•	ROI is high – good UX design pays for itself.
+
+* Our products will be competitively differentiated in the marketplace.
+* Our systems will achieve faster, better user acceptance.
+* Users achieve a state of flow in our systems and user satisfaction is higher.
+* User errors (and resulting “bugs”) are reduced.
+* Our solutions require less training and documentation.
+* We inspire loyalty in our clients.
+* The business process is repeatable and scalable.
+* ROI is high – good UX design pays for itself.
+
 UX UI at RDI
 Currently, when we talk about UX in the context of RDI projects we are focusing on the colors, layout, words, etc. These are actually all aspects of the user interface (UI).
 Many people confuse the terms UI and UX because they are related, but not the same. UI is only a small part of UX. Generally speaking, user interface design and development (UI) refers to the visual design (look and feel) and how the user interacts with that look and feel. At RDI, our developers build good-looking, modern user interfaces using HTML, CSS, javascript and other front-end technologies
