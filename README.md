@@ -10,7 +10,10 @@ Initial creation of the UX repository resulted from the UX Tech Lead Initiative.
 * [ ] **UX Cheat Sheets (e.g., Microsoft, Android, Apple, etc.):** Cheat sheets that highlight design guidelines specific to a given platform.
 * [ ] **UX Tools and Software:** Outline of existing tools / licenses available for design and prototyping
 * [x] **Establish Slack Channel:** https://resdat.slack.com/messages/ux-at-rdi/files/F07QVAZ0D/
-* [x] **Seek corporate approval to improve UI / UX on Intranet**
+* [x] **Seek corporate approval to improve UI / UX on Intranet:**  Approval given at Branch Manager meeting March 24, 2015
 * [ ] **Create Intranet Style Guide**
-* [ ] **UX Roundtable:**  [playback](Q:\RESDAT\Roundtable\2015-7-16 UX Roundtable 1\playback.m3u)
+* [x] **Overview of UX Roundtable:** Q:\RESDAT\Roundtable\2015-7-16 UX Roundtable 1\playback.m3u
+* [x] **Meeting with HR to discuss Initiative:** Meeting held 4/21.  Attendees Brian Walch, Jason Mancuso, Rick Pannell
+* [x] **Meeting with Marketing to discuss Initiative:** Meeting held 5/11.  Attendees Howard Earl, Jason Mancuso, Rachel Silverstien
+* [ ] **Update Project Overviews (General Experience) with UX Skills** 
 * 
