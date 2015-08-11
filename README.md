@@ -12,4 +12,5 @@ Initial creation of the UX repository resulted from the UX Tech Lead Initiative.
 * [x] **Establish Slack Channel:** https://resdat.slack.com/messages/ux-at-rdi/files/F07QVAZ0D/
 * [x] **Seek corporate approval to improve UI / UX on Intranet**
 * [ ] **Create Intranet Style Guide**
-* [ ] **UX Roundtable:** ([Q:\RESDAT\Roundtable\2015-7-16 UX Roundtable 1])
+* [ ] **UX Roundtable:**  [playback](Q:\RESDAT\Roundtable\2015-7-16 UX Roundtable 1\playback.m3u)
+* 
