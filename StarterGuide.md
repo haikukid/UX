@@ -1,7 +1,7 @@
 #UX at RDI: Starter Guide
 Who is this document for?
 This document is specifically written for programmers, business analysts and project managers at RDI. Perhaps you are already the UX guru in your branch. Or perhaps you don’t really understand what they mean when someone tells you your website needs “better UI”. Either way, this document aims to clarify what UX means at RDI and includes some considerations you might consider in your projects
-UX at RDI
+#UX at RDI
 At RDI we take pride in our ability to develop complex IT systems by addressing the complete needs of our clients.  While not always explicitly stated in our project requirements, a key consideration for every project with a user interface is how we can best deliver professional systems that are intuitive or familiar to our users. 
 User experience (UX) is the process of enhancing user satisfaction by improving the workflows, usability, ease of use, and that sense of flow experienced by the user while interacting with the product or system. 
 Let’s put this in more practical terms. Every day at RDI, we are making many small decisions that affect the UX of our products. These include:
