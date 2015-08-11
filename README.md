@@ -18,6 +18,6 @@ Initial creation of the UX repository resulted from the UX Tech Lead Initiative.
 * [ ] **Update Project Overviews (General Experience) with UX Skills** 
 * [ ] **RDI Case Study:** Case study of UX used on an RDI project
  
-In addition to the initial tasks outlined above, for UX design to become an integral part of RDI ongoing education and updates to UX resources should occur.  Ongoing education and updates are not limited to the initial UX team, in fact, anyone who has a strong interest or background in UX is encouraged to contribute.
+In addition to the initial tasks outlined above, for UX design to become an integral part of RDI, ongoing education and updates to UX resources should occur.  Education and updates are not limited to the initial UX team, rather, anyone who has a strong interest or background in UX is encouraged to contribute.
 
 
